@@ -1,3 +1,10 @@
 {
-	"cSpell.language": "en,fr"
+	"cSpell.language": "en,fr",
+	"cSpell.ignoreWords": [
+		"incub@uo",
+		"incub",
+		"zerbo",
+		"ki",
+		"ki-zerbo"
+	]
 }
