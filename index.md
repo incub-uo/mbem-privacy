@@ -60,6 +60,7 @@ Aucune donnée n'est collecté automatiquement.
 
 Incub@UO à travers cette application n'a aucunement accès aux données  fournies car elles (les données) sont stockées dans votre appareil.
 Les données fournies (comme sus mentionnée), ne servent qu'à permettre le calcul de la date **probable** d'accouchement et générer un calendrier prévisionnel pour les visites post et prè natales.
+Les dates de visites post et prè natales sont stockées dans l'application calendrier ou agenda de votre appareil si vous accepter son utilisation, dans le cas contraire elles ne sont pas stockées.
 Incub@UO vous conseille fortement de suivre les conseilles de votre médecin. Cette application ne peut en aucun cas se substituer à un médecin.
 
 ### Conservation de vos données personnelles
@@ -78,6 +79,10 @@ Incub@UO ne peut pas divulguer vos données personnelles.
 ### Sécurité de vos données personnelles
 
 La sécurité de vos données personnelles est importante pour nous, mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sécurisée à 100%. Bien que nous ne collectons ni ne partageons aucune données personnelles, nous ne pouvons garantir leur sécurité absolue.
+
+## Confidentialité des enfants
+
+Notre service s'adresse à toute personne en âge de procréer.
 
 ## Liens vers d'autres sites Web
 
