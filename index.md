@@ -16,27 +16,27 @@ Les mots dont la lettre initiale est en majuscule ont des significations défini
 
 Aux fins de cette politique de confidentialité:
 
-   * **Compte** signifie un compte unique créé pour que vous puissiez accéder à notre service ou à des parties de notre service.
+* **Compte** signifie un compte unique créé pour que vous puissiez accéder à notre service ou à des parties de notre service.
 
-   * **Affilié** désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où «contrôle» signifie la propriété de 50% ou plus des actions, participations ou autres titres habilités à voter pour l'élection des administrateurs ou d'une autre autorité de gestion .
+  * **Affilié** désigne une entité qui contrôle, est contrôlée par ou est sous contrôle commun avec une partie, où «contrôle» signifie la propriété de 50% ou plus des actions, participations ou autres titres habilités à voter pour l'élection des administrateurs ou d'une autre autorité de gestion .
 
-   * **Application** désigne le logiciel fourni par la Société que Vous avez téléchargé sur tout appareil électronique, nommé Mon Bébé et Moi
+  * **Application** désigne le logiciel fourni par la Société que Vous avez téléchargé sur tout appareil électronique, nommé Mon Bébé et Moi
 
-   * **Incub@UO** (dénommée «Nous», «Notre» ou «Notre» dans le présent Contrat) fait référence à Incub@UO , Université Joseph Ki-Zerbo, Ouagadougou, Burkina Faso.
+  * **Incub@UO** (dénommée «Nous», «Notre» ou «Notre» dans le présent Contrat) fait référence à Incub@UO , Université Joseph Ki-Zerbo, Ouagadougou, Burkina Faso.
 
-   * **Pays** se réfère à: Burkina Faso
+  * **Pays** se réfère à: Burkina Faso
 
-   * **Appareil** désigne tout appareil pouvant accéder au Service tel qu'un ordinateur, un téléphone portable ou une tablette numérique.
+  * **Appareil** désigne tout appareil pouvant accéder au Service tel qu'un ordinateur, un téléphone portable ou une tablette numérique.
 
-   * **Les données personnelles** sont toutes les informations relatives à une personne identifiée ou identifiable.
+  * **Les données personnelles** sont toutes les informations relatives à une personne identifiée ou identifiable.
 
-   * **Le service** fait référence à l'application.
+  * **Le service** fait référence à l'application.
 
-   * **Prestataire de services** désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Il se réfère à des sociétés tierces ou à des personnes employées par la Société pour faciliter le Service, pour fournir le Service au nom de la Société, pour exécuter des services liés au Service ou pour aider la Société à analyser la façon dont le Service est utilisé.
+  * **Prestataire de services** désigne toute personne physique ou morale qui traite les données pour le compte de la Société. Il se réfère à des sociétés tierces ou à des personnes employées par la Société pour faciliter le Service, pour fournir le Service au nom de la Société, pour exécuter des services liés au Service ou pour aider la Société à analyser la façon dont le Service est utilisé.
 
-   * **Les données d'utilisation** font référence aux données collectées automatiquement, soit générées par l'utilisation du service, soit à partir de l'infrastructure du service elle-même (par exemple, la durée d'une visite de page).
+  * **Les données d'utilisation** font référence aux données collectées automatiquement, soit générées par l'utilisation du service, soit à partir de l'infrastructure du service elle-même (par exemple, la durée d'une visite de page).
 
-   * **Vous** désigne la personne qui accède ou utilise le Service, ou la société ou toute autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.
+  * **Vous** désigne la personne qui accède ou utilise le Service, ou la société ou toute autre entité juridique au nom de laquelle cette personne accède ou utilise le Service, selon le cas.
 
 ## Collecte et utilisation de vos données personnelles
 
@@ -46,16 +46,15 @@ Aux fins de cette politique de confidentialité:
 
 Lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables qui ne peuvent être utilisées pour vous contacter ou vous identifier. Les informations personnellement identifiables incluent:
 
-   * **La date de vos dernières règle**;
-    
-   * **La date probable d'accouchement sur échographie**;
-    
-   * **La date extacte d'accouchement si vous avez déjà accouché**.
-    
+* **La date de vos dernières règle**;
+
+* **La date probable d'accouchement sur échographie**;
+
+* **La date extacte d'accouchement si vous avez déjà accouché**.
+
 #### Données d'utilisation
 
 Aucune donnée n'est collecté automatiquement.
-
 
 #### Utilisation de vos données personnelles
 
