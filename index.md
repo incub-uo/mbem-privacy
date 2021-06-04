@@ -1,6 +1,6 @@
 # Politique de confidentialité de Mon Bébé et Moi
 
-Dernière mise à jour: 1 juin 2021
+Dernière mise à jour: 04 juin 2021
 
 Cette politique de confidentialité décrit nos politiques et procédures sur la collecte, l'utilisation et la divulgation de vos informations lorsque vous utilisez le service et vous informe de vos droits à la confidentialité et de la manière dont la loi vous protège.
 
@@ -97,6 +97,12 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 Nous vous informerons par un avis visible sur notre service, avant que le changement ne devienne effectif, et nous mettrons à jour la date de «dernière mise à jour» en haut de cette politique de confidentialité.
 
 Il vous est conseillé de consulter périodiquement cette politique de confidentialité pour tout changement. Les modifications apportées à cette politique de confidentialité sont effectives lorsqu'elles sont publiées sur cette page.
+
+## Covid-19
+
+L'application contient une section qui aborde la santé de la femme enceinte, la mère et l'enfant en cette période de la pandémie à COVID-19.
+Cette application n'est pas spécifiquement dédié à la lutte contre cette pandémie.
+Nous ne collectons ni ne traitons aucune donnée pour soutenir les efforts liés au COVID-19 ou la recherche épidémiologique.
 
 ## Nous contacter
 
